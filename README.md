@@ -18,3 +18,9 @@ Advanced driver assistance systems which deals in images of roads and highways.
  </p>
 
 
+Usages:
+
+1. Start Docker
+
+% docker run -it -v $HOME/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel 
+
